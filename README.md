@@ -2,7 +2,7 @@
 
 # LED Blinking 
 
-## In Action
+## In Actione
 change
 
 |ON|OFF|
